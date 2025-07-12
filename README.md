@@ -11,3 +11,5 @@ During the course, I became familiar with key SQL concepts and commands such as:
 - **Table operations:** `JOIN`, use of `AS` for aliasing
 - **Aggregation functions:** `COUNT`, `SUM`, `MIN`
 - **String & date functions:** `GETDATE`, `UPPER`, `LOWER`, `DATEDIFF`
+
+**Below, I present practical examples of how these commands and functions are used in real queries.**
