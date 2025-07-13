@@ -16,7 +16,6 @@ During the course, I became familiar with key SQL concepts and commands such as:
 
 ### 🧾 Task 1: Display the `actors` table sorted alphabetically by surname
 
-**SQL Query:**
 ```sql
 SELECT * FROM actors
 ORDER BY surname;
