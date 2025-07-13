@@ -28,4 +28,4 @@ ORDER BY surname;
 SELECT * FROM movies
 WHERE year_of_production = '2019';
 ```
-https://user-images.githubusercontent.com/3789650/218768201-b622b015-ebb7-4cd4-bd61-4d794292231f.png<img width="476" height="99" alt="image" src="https://github.com/user-attachments/assets/3c8429d8-748c-469e-a293-928185f17f45" />
+<img width="476" height="99" alt="image" src="https://github.com/user-attachments/assets/3c8429d8-748c-469e-a293-928185f17f45" />
