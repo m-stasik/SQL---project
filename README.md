@@ -19,4 +19,5 @@ During the course, I became familiar with key SQL concepts and commands such as:
 ```sql
 SELECT * FROM actors
 ORDER BY surname;
-https://user-images.githubusercontent.com/3789650/218763255-1e594436-edb0-441c-a970-e2faeb462ede.png<img width="806" height="387" alt="image" src="https://github.com/user-attachments/assets/96d0a6d9-dbda-4c5a-8cfd-cb981c897f97" />
+
+<img width="806" height="387" alt="218763255-1e594436-edb0-441c-a970-e2faeb462ede" src="https://github.com/user-attachments/assets/76715233-4295-40da-965d-b47f5aec136b" />
