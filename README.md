@@ -19,5 +19,5 @@ During the course, I became familiar with key SQL concepts and commands such as:
 ```sql
 SELECT * FROM actors
 ORDER BY surname;
-
+```
 <img width="806" height="387" alt="218763255-1e594436-edb0-441c-a970-e2faeb462ede" src="https://github.com/user-attachments/assets/76715233-4295-40da-965d-b47f5aec136b" />
