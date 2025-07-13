@@ -13,3 +13,10 @@ During the course, I became familiar with key SQL concepts and commands such as:
 - **String & date functions:** `GETDATE`, `UPPER`, `LOWER`, `DATEDIFF`
 
 **Below, I present practical examples of how these commands and functions are used in real queries.**
+
+### 🧾 Task 1: Display the `actors` table sorted alphabetically by surname
+
+**SQL Query:**
+```sql
+SELECT * FROM actors
+ORDER BY surname;
