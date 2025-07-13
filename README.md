@@ -21,3 +21,11 @@ SELECT * FROM actors
 ORDER BY surname;
 ```
 <img width="806" height="387" alt="218763255-1e594436-edb0-441c-a970-e2faeb462ede" src="https://github.com/user-attachments/assets/76715233-4295-40da-965d-b47f5aec136b" />
+
+### 🧾 Task 2: Display the movie produced in 2019
+
+```sql
+SELECT * FROM movies
+WHERE year_of_production = '2019';
+```
+https://user-images.githubusercontent.com/3789650/218768201-b622b015-ebb7-4cd4-bd61-4d794292231f.png<img width="476" height="99" alt="image" src="https://github.com/user-attachments/assets/3c8429d8-748c-469e-a293-928185f17f45" />
